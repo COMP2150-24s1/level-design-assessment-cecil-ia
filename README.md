@@ -5,18 +5,6 @@
 
 Word Count : 1529
 
-This document discusses and reflects on the design of your platformer level for the Level Design assessment. It should be 1500 words. Make sure you delete this and all other instructional text throughout the document before checking your word count prior to submission. Hint: You can check word count by copying this text into a Word or Google doc.
-
-Your document must include images. To insert an image into your documentation, place it in the "DocImages" folder in this repo, then place the below text where you want the image to appear:
-
-```
-![Place any alt text here](DocImages/<IMAGE NAME AND FILE EXTENSION>)
-```
-
-Example:
-
-![This is the alt text for an image!](DocImages/exampleimage.png)
-
 ## 1. Player Experience (~700 words)
 Outline and justify how your level design facilitates the core player experience goals outlined in the assignment spec. Each section should be supported by specific examples and screenshots of your game encounters that highlight design choices made to facilitate that particular experience.
 
@@ -148,11 +136,19 @@ No additional words are necessary for this section (any words should only be wit
  
 ### 3.1. Molecule Diagram
 
+![Place any alt text here](DocImages/<IMAGE NAME AND FILE EXTENSION>)
+
 ### 3.2. Level Map – Section 1
+
+![Place any alt text here](DocImages/<IMAGE NAME AND FILE EXTENSION>)
 
 ### 3.3.	Level Map – Section 2
 
+![Place any alt text here](DocImages/<IMAGE NAME AND FILE EXTENSION>)
+
 ### 3.4.	Level Map – Section 3
+
+![Place any alt text here](DocImages/<IMAGE NAME AND FILE EXTENSION>)
 
 ## 4. Iterative Design (~400 words)
 Reflect on how iterative design helped to improve your level. Additional prototypes and design artefacts should be included to demonstrate that you followed an iterative design process (e.g. pictures of paper prototypes, early grey-boxed maps, additional storyboards of later gameplay sequences, etc.). You can also use this section to justify design changes made in Unity after you drew your level design maps shown in section 3. 
