@@ -30,6 +30,7 @@ The first level would introduce acid, spitters, moving platforms and the gun wea
 The second level would introduce the staff weapon, checkpoints, chompers, spikes and disappearing platforms. By attempting to get through the second level, the player should be able to navigated all game mechanics to be able to complete the third level. 
 
 ![Introductory level 1](DocImages/Untitled167_20240407182656.png)
+
 *Introductory level 1*
 
 ### 1.2. Drama
@@ -53,6 +54,7 @@ Compared to those two levels, the third level has the most risk, which makes it 
 Due to the layout of each stage and the obstacles planned for each one, the difficulty level and challenge would become more intense as the player progresses through the game. 
 
 ![Obstacle clutter in level 3](DocImages/Untitled167_20240407182729.jpeg)
+
 *Obstacle clutter in level 3*
 
 ### 1.4. Exploration
@@ -63,6 +65,7 @@ There are multiple opportunities for exploration in the game. The first is in th
 By adding variety in choices and opportunities into the level design, the game invites the player to take their own paths, and encourages map exploration.
 
 ![Alternate passage to collect heart in level 2](DocImages/Untitled167_20240407182719.jpeg)
+
 *Alternate passage to collect heart in level 2*
 
 ## 2. Core Gameplay (~400 words)
@@ -76,45 +79,67 @@ You should restructure the headings below to match the order they appear in your
 
 The acid is located at the start, a few steps away from where the player starts the game. There are two puddles of acid right away, so that the players have a chance to understand the basic mechanics of the game.
 
+![Place any alt text here](DocImages/Untitled167_20240407195458.png)
+
 ### 2.10. Weapon Pickup (Gun)
 
 The gun pickup is located on the platform above the starting point, which makes it easy to access. This is so that the player can take out the enemy on the first level easily. 
+
+![Place any alt text here](DocImages/Untitled167_20240407194225.png)
 
 ### 2.6. Moving Platforms
 
 The first moving platforms are located on the first level, and are placed in a way that the player needs to use them in order to make it to the top floor of the level where the key is. It has been placed for the player to learn how to use them.
 
+![Place any alt text here](DocImages/Untitled167_20240407194757.png)
+
 ### 2.9. Spitters
 
 The first spitter is located on the first level as it is an easier boss to deal with, so the players can get used to using a gun to fight the enemies.
+
+![Place any alt text here](DocImages/Untitled167_20240407202830.png)
 
 ### 2.5. Keys
 
 The first key is located at the top of the first level, so at the end of that stage. It has been placed here to show the player which direction they need to run in.
 
-### 2.8. Spikes
-
-The spikes are located above the first spike encounter to warn the players that there are consequences if they don’t manage to pass this stage.
-
-### 2.11. Weapon Pickup (Staff)
-
-The staff pickup is located at the start of the second level, right before the enemy encounter. This is because the number of enemies from then on will increase, so the pickup will make the game a bit easier for the player.
-
-### 2.3. Chompers
-
-The first chomper is located at the start of the second level. It is placed on a flat platform so that the players have an opportunity to figure out how to defeat it to get through to the next level.
-
-### 2.7. Passthrough Platforms
-
-The passthrough platforms first show up during the second level. It is the first more advanced obstacle that the player will need to pass to increase the difficulty.
+![Place any alt text here](DocImages/Untitled167_20240407195333.png)
 
 ### 2.2. Checkpoints
 
 There are two checkpoints in the game - The first checkpoint is located at the start of section two, and the second one is at the start of section three. This is to ensure that players won’t have to go back to the beginning of the game if they fail the next stages.
 
+![Place any alt text here](DocImages/Untitled167_20240407202200.png)
+
+### 2.11. Weapon Pickup (Staff)
+
+The staff pickup is located at the start of the second level, right before the enemy encounter. This is because the number of enemies from then on will increase, so the pickup will make the game a bit easier for the player.
+
+![Place any alt text here](DocImages/Untitled167_20240407202557.png)
+
+### 2.3. Chompers
+
+The first chomper is located at the start of the second level. It is placed on a flat platform so that the players have an opportunity to figure out how to defeat it to get through to the next level.
+
+![Place any alt text here](DocImages/Untitled167_20240407202750.png)
+
+### 2.8. Spikes
+
+The spikes are located above the first spike encounter to warn the players that there are consequences if they don’t manage to pass this stage.
+
+![Place any alt text here](DocImages/Untitled167_20240407200043.png)
+
+### 2.7. Passthrough Platforms
+
+The passthrough platforms first show up during the second level. It is the first more advanced obstacle that the player will need to pass to increase the difficulty.
+
+![Place any alt text here](DocImages/Untitled167_20240407203143.png)
+
 ### 2.4. Health Pickups
 
 The first health pickup is located near the end of the second level. It is located in a separate area near the key, so that the player has an option to pick it up, otherwise, they can ignore it. It was also placed here as the player may need it before heading into the third level. They are usually located after a dangerous encounter
+
+![Place any alt text here](DocImages/Untitled167_20240407203323.png)
 
 ## 3. Spatiotemporal Design
 A section on Spatiotemporal Design, which includes your molecule diagram and annotated level maps (one for each main section of your level). These diagrams may be made digitally or by hand, but must not be created from screenshots of your game. The annotated level maps should show the structure you intend to build, included game elements, and the path the player is expected to take through the level. Examples of these diagrams are included in the level design lectures.
@@ -137,11 +162,20 @@ You should conclude by highlighting a specific example of an encounter, or anoth
 I had planned out my map prior to attempting to recreating it in Unity. The beta design was quite simple, and I had figured that it wouldn’t be too difficult for a new player to run through the whole game quite easily.
 
 ![Beta design plan](DocImages/Untitled165.png)
+
 *Beta design plan*
 
 For example, the stages were originally set up so that the third stage would show up on top of stages one and two. When I started creating the levels, I thought that it would be more interesting to spread the levels out in a line so that the map would look a little bigger, and therefore more interesting. It would also look less compact. 
 
+![Place any alt text here](DocImages/Untitled167_20240407201201.png)
+
+*Level 3 setup change*
+
 I also needed to add more moving platforms to level one as the original design didn’t have enough to allow the player to reach the next platform.
+
+![Place any alt text here](DocImages/Untitled167_20240407201254.png)
+
+*More moving platforms added to level 1*
 
 Another change I made was at the beginning of the second stage. I had decided that because they hadn’t reached the second heart at that point yet, I would remove the spikes and let the player deal with just the chomper instead. 
 
@@ -162,4 +196,3 @@ Use the below table to indicate any Generative AI or writing assistance tools us
 An example has been included. Please replace this with any actual tools, and add more as necessary.
 
 ### Tool Used: None
-
