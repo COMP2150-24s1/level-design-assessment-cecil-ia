@@ -30,6 +30,7 @@ The first level would introduce acid, spitters, moving platforms and the gun wea
 The second level would introduce the staff weapon, checkpoints, chompers, spikes and disappearing platforms. By attempting to get through the second level, the player should be able to navigated all game mechanics to be able to complete the third level. 
 
 ![Introductory level 1](DocImages/Untitled167_20240407182656.png)
+*Introductory level 1*
 
 ### 1.2. Drama
 What is the intensity curve? How does your design facilitate increasing yet modulating intensity, with moments of tension and relief? 
@@ -52,15 +53,17 @@ Compared to those two levels, the third level has the most risk, which makes it 
 Due to the layout of each stage and the obstacles planned for each one, the difficulty level and challenge would become more intense as the player progresses through the game. 
 
 ![Obstacle clutter in level 3](DocImages/Untitled167_20240407182729.jpeg)
+*Obstacle clutter in level 3*
 
 ### 1.4. Exploration
 How does your level design facilitate autonomy and invite the player to explore? How do your aesthetic and layout choices create distinct and memorable spaces and/or places?
 
 There are multiple opportunities for exploration in the game. The first is in the first level, where it is optional for the player to take out the spitter. In the second level, the player has an option to go through a passage to grab an additional heart, as well as additional ways to get back to the start of the level rather than having to go around the block again.
 
-![Alternate passage to collect heart in level 2](DocImages/Untitled167_20240407182719.jpeg)
-
 By adding variety in choices and opportunities into the level design, the game invites the player to take their own paths, and encourages map exploration.
+
+![Alternate passage to collect heart in level 2](DocImages/Untitled167_20240407182719.jpeg)
+*Alternate passage to collect heart in level 2*
 
 ## 2. Core Gameplay (~400 words)
 A section on Core Gameplay, where storyboards are used to outline how you introduce the player to each of the required gameplay elements in the first section of the game. Storyboards should follow the format provided in lectures.
@@ -134,6 +137,7 @@ You should conclude by highlighting a specific example of an encounter, or anoth
 I had planned out my map prior to attempting to recreating it in Unity. The beta design was quite simple, and I had figured that it wouldn’t be too difficult for a new player to run through the whole game quite easily.
 
 ![Beta design plan](DocImages/Untitled165.png)
+*Beta design plan*
 
 For example, the stages were originally set up so that the third stage would show up on top of stages one and two. When I started creating the levels, I thought that it would be more interesting to spread the levels out in a line so that the map would look a little bigger, and therefore more interesting. It would also look less compact. 
 
