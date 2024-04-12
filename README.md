@@ -48,9 +48,9 @@ Due to the layout of each stage and the obstacles planned for each one, the diff
 ### 1.4. Exploration
 How does your level design facilitate autonomy and invite the player to explore? How do your aesthetic and layout choices create distinct and memorable spaces and/or places?
 
-There are multiple opportunities for exploration in the game. The first is in the first level, where it is optional for the player to take out the spitter. In the second level, the player has an option to go through a passage to grab an additional heart, as well as additional ways to get back to the start of the level rather than having to go around the block again.
+Each level of the floor is distinct and unique, meaning the player doesn't have to look at the same scenery for the entire game. By doing this, it adds a bit of interest, and changes in game aesthetic. The multiple routes that the player can take also adds to exploration, as it gives the player some more freedom and not have to stick to a set path.
 
-By adding variety in choices and opportunities into the level design, the game invites the player to take their own paths, and encourages map exploration.
+Adding multiple routes also means that the player gets to explore the map a bit more, rather than have to stick to whatver they see on the screen and blindly follow a set path.
 
 ![Alternate passage to collect heart in level 2](DocImages/Untitled167_20240407182719.jpeg)
 
@@ -105,17 +105,17 @@ The staff pickup is located at the start of the second level, right before the e
 
 ![Place any alt text here](DocImages/Untitled167_20240407202557.png)
 
-### 2.3. Chompers
-
-The first chomper is located at the start of the second level. It is placed on a flat platform so that the players have an opportunity to figure out how to defeat it to get through to the next level.
-
-![Place any alt text here](DocImages/Untitled167_20240407202750.png)
-
 ### 2.8. Spikes
 
 The spikes are located above the first spike encounter to warn the players that there are consequences if they don’t manage to pass this stage.
 
 ![Place any alt text here](DocImages/Untitled167_20240407200043.png)
+
+### 2.3. Chompers
+
+The first chomper is located at the start of the second level. It is placed on a flat platform so that the players have an opportunity to figure out how to defeat it to get through to the next level.
+
+![Place any alt text here](DocImages/Untitled167_20240407202750.png)
 
 ### 2.7. Passthrough Platforms
 
@@ -167,23 +167,12 @@ For example, the stages were originally set up so that the third stage would sho
 
 *Level 3 setup change*
 
-I also needed to add more moving platforms to level one as the original design didn’t have enough to allow the player to reach the next platform.
+After playtesting the game, I found that there were many variables that needed to be changed. Sometimes, it wasn't possible to jump over the spikes, so I had to either make the passage higher or delete the spikes altogether. I also found that the second and third levels were too boring so I decided to add some breakable walls as well to give the game more variety, and not just have the player jump around and defeat enemies. These were usually placed around the health pickups so that the player wouldn't be able to grab it so easily. During the playthrough, I found that the pass through platforms didn't work as I thought they would (they didn't disappear after standing on it for a few seconds), so I had to subsitute a lot of my passthrough platforms for moving ones, and add them somewhere else.
 
-![Place any alt text here](DocImages/Untitled167_20240407201254.png)
+I also decided to add another section to level three so that it wasn't so straightforward for the player. Instead of just jumping to get to the key, they'd need to find another path in order to find the key. I also blocked off the door with a pass through platform to make it more challenging as well.
 
-*More moving platforms added to level 1*
+Overall, playtesting the game helped with figuring out which sections were impossible to clear due to things like platforms blocking the jump, overpowered enemies, etc. 
 
-Another change I made was at the beginning of the second stage. I had decided that because they hadn’t reached the second heart at that point yet, I would remove the spikes and let the player deal with just the chomper instead. 
-
-However, as I was recreating the game in Unity, there were a lot of aspects that I decided to change just because it didn’t play out how I wanted in the beta design.
-
-I also made the second level underground to add some more excitement to the game environment, and so that the player wouldn’t feel too boring and repetitive. 
-
-Of course, I wasn’t able to play test the game due to major technical issues, such as Ellen not being able to move. (I have discussed this with someone already, and it might be due to my computer). The game does not commit to GitHub either, so the marker will unfortunately not be able to test the game either. 
-
-Because of this, there is likely a lot of error within my game design as I don’t know factors like how high and far Ellen can jump, and how the mobs move around, all of which can affect how the game turns out. This would ultimately affect the gameplay, and the difficulty level for the player as there are so many uncertain variables to go by. 
-
-Overall, I think the game would be relatively easy to play if it had worked. The flow of the game might be too simple as there are no major challenges that would actually make the player think. It is too straightforward, which might be more suitable for younger players who wouldn’t be able to figure out map puzzles, but definitely not difficult enough for the marker who would actually be playing the game. 
 
 
 ## Generative AI Use Acknowledgement
